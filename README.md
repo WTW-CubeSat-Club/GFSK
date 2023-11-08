@@ -1,2 +1,3 @@
 # GFSK
-Sample implementation of GFSK in Julia.
+
+Sample implementation of GFSK in Zig.
